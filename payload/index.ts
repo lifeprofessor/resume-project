@@ -15,7 +15,7 @@ import { _global } from './_global';
 import { IProfile } from '../component/profile/IProfile';
 import { IIntroduce } from '../component/introduce/IIntroduce';
 import { ISkill } from '../component/skill/ISkill';
-//import { IOpenSource } from '../component/openSource/IOpenSource';
+import { IOpenSource } from '../component/openSource/IOpenSource';
 import { IExperience } from '../component/experience/IExperience';
 import { IProject } from '../component/project/IProject';
 import { IPresentation } from '../component/presentation/IPresentation';
